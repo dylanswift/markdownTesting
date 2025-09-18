@@ -7,7 +7,7 @@
 sequenceDiagram;
   Alice->>John: Hey Up
   John-->>Alice: How do
-  Alice->John: Tara Duck!
+  Alice->John: Tara Duck
 
 End of diagram
 
